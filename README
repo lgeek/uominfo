@@ -1,0 +1,6 @@
+Lightweight wrapper for searching the UoM directory using ldapsearch.
+
+Optionally, symlink or rename to csinfo to limit searches to the CS school.
+
+Syntax: uominfo TERM
+	TERM can be either a name or username
